@@ -1,0 +1,3 @@
+ toda classe possui propriedades que sao caracteristicas e metodos acoes que uma classe e capaz de executar
+
+ todo objeto que e criado usando uma classe herda as propriedades da classe automaticamnete => HERANÇA

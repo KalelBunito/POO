@@ -1,5 +1,5 @@
-numero = 2
-print(numero)
+from aluno import Aluno
 
-numero2 = 10
-print(numero2)
+aluno1 = Aluno("Kalel", 14, 10)
+
+aluno1.exibir_detalhes()
